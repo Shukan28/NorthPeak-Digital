@@ -48,10 +48,9 @@ function Contact() {
 
         <section className="contact" id="contact">
             <div className="contact-left">
-                
-            <p className="contact-tag">
-    📩 Contact Us
-</p>
+                <p className="contact-tag">
+                    📩 Contact Us
+                </p>
                 <h2>Let's Build Something Amazing</h2>
                 <p>
                     Ready to grow your business?

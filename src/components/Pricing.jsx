@@ -48,8 +48,7 @@ function Pricing() {
     <section className="pricing" id="pricing">
       <h2>Simple Pricing</h2>
       <p className="pricing-subtitle">
-        Flexible plans designed to help businesses of every size
-        establish and grow their digital presence.
+        Flexible plans designed to help businesses of every size establish and grow their digital presence.
       </p>
       <div className="pricing-grid">
         {plans.map((plan, index) => (

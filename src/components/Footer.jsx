@@ -8,8 +8,7 @@ function Footer() {
                 <div className="footer-brand">
                     <h2>NorthPeak Digital</h2>
                     <p>
-                        Helping businesses grow through modern web design,
-                        development, and digital strategy.
+                        Helping businesses grow through modern web design, development and digital strategy.
                     </p>
                 </div>
                 <div className="footer-links">

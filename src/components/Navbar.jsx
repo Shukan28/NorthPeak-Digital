@@ -4,8 +4,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="logo">
-        <span>⬢ North</span>Peak
-        Digital
+        <p><span>⬢ North</span>Peak</p> Digital
       </div>
       <nav>
         <ul className="nav-links">

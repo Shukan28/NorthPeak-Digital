@@ -8,11 +8,11 @@ function Hero() {
                     🚀 Trusted by 150+ Businesses
                 </p>
                 <h1>
-                    Transform Your Vision 
+                    Transform Your Vision
                     <span> Into Digital Success.</span>
                 </h1>
                 <p className="hero-description">
-                    We design modern websites, craft memorable brands, and build digital experiences that help businesses attract more customers and grow online.
+                    We design modern websites, craft memorable brands and build digital experiences that help businesses attract more customers and grow online.
                 </p>
                 <div className="hero-buttons">
                     <button className="primary-btn">

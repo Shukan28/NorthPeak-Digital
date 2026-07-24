@@ -51,14 +51,10 @@ function Services() {
             <div className="services-grid">
                 {services.map((service, index) => (
                     <div className="service-card" key={index}>
-                        <div className="service-icon">
-                            {service.icon}
-                        </div>
+                        <div className="service-icon">{service.icon}</div>
                         <h3>{service.title}</h3>
                         <p>{service.description}</p>
-                        <a href="#">
-    Explore Service →
-</a>
+                        <a href="#">Explore Service →</a>
                     </div>
                 ))}
             </div>

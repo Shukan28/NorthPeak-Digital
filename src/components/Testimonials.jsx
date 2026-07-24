@@ -5,20 +5,17 @@ const testimonials = [
   {
     name: "Sarah Johnson",
     role: "CEO, BrightLabs",
-    review:
-      "NorthPeak Digital completely transformed our website. Our conversions increased significantly within weeks."
+    review: "NorthPeak Digital completely transformed our website. Our conversions increased significantly within weeks."
   },
   {
     name: "Michael Chen",
     role: "Founder, NovaTech",
-    review:
-      "Professional, responsive, and incredibly talented. The team delivered beyond our expectations."
+    review: "Professional, responsive, and incredibly talented. The team delivered beyond our expectations."
   },
   {
     name: "Emily Davis",
     role: "Marketing Head, Elevate Co.",
-    review:
-      "Our brand now looks modern and trustworthy. Working with NorthPeak Digital was a fantastic experience."
+    review: "Our brand now looks modern and trustworthy. Working with NorthPeak Digital was a fantastic experience."
   }
 ];
 
@@ -27,11 +24,10 @@ function Testimonials() {
     <section className="testimonials" id="testimonials">
       <h2>What Our Clients Say</h2>
       <p className="testimonial-metric">
-⭐ Rated <strong>4.9/5</strong> by 150+ happy clients
-</p>
+        ⭐ Rated <strong>4.9/5</strong> by 150+ happy clients
+      </p>
       <p className="testimonials-subtitle">
-        Trusted by startups and growing businesses to deliver
-        impactful digital experiences.
+        Trusted by startups and growing businesses to deliver impactful digital experiences.
       </p>
       <div className="testimonial-grid">
         {testimonials.map((client, index) => (
