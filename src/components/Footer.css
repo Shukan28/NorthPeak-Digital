@@ -24,11 +24,11 @@
     display:flex;
     gap:25px;
     flex-wrap:wrap;
-    position: relative;
 }
 .footer-links a{
     color:#CBD5E1;
     transition:.3s;
+    position: relative;
 }
 .footer-links a:hover{
     color:white;

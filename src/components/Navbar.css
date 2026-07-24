@@ -65,11 +65,14 @@
     background:#1D4ED8;
     transform:translateY(-2px);
 }
-@media(max-width:768px){
+@media (max-width:768px){
     .nav-links{
         display:none;
     }
     .nav-btn{
         display:none;
+    }
+    .navbar{
+        justify-content:center;
     }
 }
