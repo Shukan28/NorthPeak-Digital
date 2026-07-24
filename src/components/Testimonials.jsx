@@ -45,7 +45,7 @@ function Testimonials() {
                 {client.name.charAt(0)}
               </div>
               <div>
-                <h4>{client.name}</h4>
+                <h3>{client.name}</h3>
                 <span>{client.role}</span>
               </div>
             </div>

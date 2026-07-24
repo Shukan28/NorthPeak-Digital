@@ -6,7 +6,7 @@ function Footer() {
         <footer className="footer">
             <div className="footer-content">
                 <div className="footer-brand">
-                    <h2>NorthPeak Digital</h2>
+                    <div className="footer-logo">NorthPeak Digital</div>
                     <p>
                         Helping businesses grow through modern web design, development and digital strategy.
                     </p>

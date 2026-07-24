@@ -22,15 +22,15 @@ function Hero() {
                 </div>
                 <div className="hero-stats">
                     <div>
-                        <h3>150+</h3>
+                        <p className="hero-stat-number">150+</p>
                         <p>Projects</p>
                     </div>
                     <div>
-                        <h3>98%</h3>
+                        <p className="hero-stat-number">98%</p>
                         <p>Satisfaction</p>
                     </div>
                     <div>
-                        <h3>4.9★</h3>
+                        <p className="hero-stat-number">4.9★</p>
                         <p>Client Rating</p>
                     </div>
                 </div>

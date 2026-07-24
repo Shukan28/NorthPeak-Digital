@@ -21,7 +21,7 @@
 }
 
 .footer-brand p {
-    color: #CBD5E1;
+    color: #334155;
     line-height: 1.8;
 }
 
@@ -32,13 +32,14 @@
 }
 
 .footer-links a {
-    color: #CBD5E1;
+    color: #334155;
     transition: .3s;
     position: relative;
 }
 
 .footer-links a:hover {
     color: white;
+    text-decoration: underline;
 }
 
 .footer-links a::after {
@@ -54,6 +55,11 @@
 
 .footer-links a:hover::after {
     width: 100%;
+}
+
+.footer-links a:focus {
+    color: #2563EB;
+    text-decoration: underline;
 }
 
 .footer-social {
@@ -82,7 +88,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 20px;
-    color: #CBD5E1;
+    color: #334155;
 }
 
 .footer-bottom a {

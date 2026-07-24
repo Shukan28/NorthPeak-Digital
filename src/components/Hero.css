@@ -38,7 +38,7 @@
 
 .hero-description {
     max-width: 550px;
-    color: #64748B;
+    color: #475569;
     font-size: 1.1rem;
     line-height: 1.8;
     margin-bottom: 35px;
@@ -79,7 +79,7 @@
 }
 
 .hero-stats p {
-    color: #64748B;
+    color: #475569;
 }
 
 .hero-stats div {
@@ -185,7 +185,7 @@
 }
 
 .metrics p {
-    color: #64748B;
+    color: #475569;
     margin-top: 5px;
 }
 
